@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+}
+#main{
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+#title{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+.lead{
+    text-align: center;
+    font-size: 1.1rem;
+}
+#img-div>img{
+    width: 100%;
+}
+
+
+#img-div{
+    max-width: 1000px;
+    margin: 2rem auto;
+}
+#img-caption{
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+#img-info{
+    max-width: 600px;
+    margin: auto;
+}
+#img-info>h2{
+    text-align: center;
+    margin: 2rem auto;
+}
+#img-info ul li{
+    margin: 1.5rem 0;
+}
+#img-info ul{
+    margin: 2.5rem 0;
+}
+.small-p{
+    margin-top: 3rem;
+}
+.learn-more-p{
+    font-size: 1.1rem;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
